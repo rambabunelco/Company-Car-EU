@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="f86581c847fa3110f928750cd36d4343" extends="cmdb_model" label="Vehicle Model" max_length="40" name="x_710529_company_0_vehicle_model" type="collection">
+        <element label="Engine Capacity" max_length="40" name="engine_capacity" type="string"/>
+        <element choice="1" label="Fuel Type" max_length="40" name="fuel_type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Eletric" sequence="0" value="eletric"/>
+                <element inactive_on_update="false" label="Diesel" sequence="1" value="diesel"/>
+                <element inactive_on_update="false" label="Petrol" sequence="2" value="petrol"/>
+                <element inactive_on_update="false" label="Hybrid" sequence="3" value="hybrid"/>
+            </choice>
+        </element>
+        <element label="Power KW" max_length="40" name="power_kw" type="string"/>
+        <element choice="1" label="Transimission Type" max_length="40" name="transimission_type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Automatic" sequence="0" value="automatic"/>
+                <element inactive_on_update="false" label="Manual" sequence="1" value="manual"/>
+            </choice>
+        </element>
+        <element choice="1" label="Vehicle Type" max_length="40" name="vehicle_type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Car" sequence="0" value="car"/>
+                <element inactive_on_update="false" label="Van" sequence="1" value="van"/>
+                <element inactive_on_update="false" label="Multi Purpose Vehicle" sequence="2" value="multi_purpose_vehicle"/>
+            </choice>
+        </element>
+    </element>
+</database>

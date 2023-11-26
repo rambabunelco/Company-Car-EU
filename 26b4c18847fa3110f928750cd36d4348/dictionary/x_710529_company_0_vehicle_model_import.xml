@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="8004d500477e3110f928750cd36d435d" extends="sys_import_set_row" label="Vehicle Model Import" max_length="40" name="x_710529_company_0_vehicle_model_import" type="collection">
+        <element attributes="import_attribute_name=Engine Capacity" label="Engine Capacity" max_length="15" name="u_engine_capacity" type="decimal"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Fuel Type" label="Fuel Type" max_length="40" name="u_fuel_type" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Manufacturer" label="Manufacturer" max_length="40" name="u_manufacturer" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Name" label="Name" max_length="40" name="u_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Power KW" label="Power KW" max_length="40" name="u_power_kw" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Transmission Type" label="Transmission Type" max_length="40" name="u_transmission_type" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Vehicle Type" label="Vehicle Type" max_length="40" name="u_vehicle_type" type="string"/>
+    </element>
+</database>

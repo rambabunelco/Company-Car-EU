@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="5965c94447fa3110f928750cd36d43c8" sys_domain="global" table="x_710529_company_0_vehicle_model" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-24 06:12:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>696581c847fa3110f928750cd36d43b3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_710529_company_0_vehicle_model" name="x_710529_company_0_vehicle_model" sys_domain="global" view="Default view">5965c94447fa3110f928750cd36d43c8</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_710529_company_0_vehicle_model" sys_domain="global" view="Default view">d96581c847fa3110f928750cd36d43af</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-24 06:12:24</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-24 06:12:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ed6581c847fa3110f928750cd36d43bd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_710529_company_0_vehicle_model" name="x_710529_company_0_vehicle_model" sys_domain="global" view="Default view">5965c94447fa3110f928750cd36d43c8</sys_ui_form>
+            <sys_ui_section caption="General" display_value="General" name="x_710529_company_0_vehicle_model" sys_domain="global" view="Default view">e16581c847fa3110f928750cd36d43b7</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-24 06:12:24</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-24 06:12:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ad6581c847fa3110f928750cd36d43b6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_710529_company_0_vehicle_model" name="x_710529_company_0_vehicle_model" sys_domain="global" view="Default view">5965c94447fa3110f928750cd36d43c8</sys_ui_form>
+            <sys_ui_section caption="Compatibles" display_value="Compatibles" name="x_710529_company_0_vehicle_model" sys_domain="global" view="Default view">ad6581c847fa3110f928750cd36d43b3</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-24 06:12:24</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-24 06:12:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>516581c847fa3110f928750cd36d43af</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_710529_company_0_vehicle_model" name="x_710529_company_0_vehicle_model" sys_domain="global" view="Default view">5965c94447fa3110f928750cd36d43c8</sys_ui_form>
+            <sys_ui_section caption="Assets" display_value="Assets" name="x_710529_company_0_vehicle_model" sys_domain="global" view="Default view">9565c94447fa3110f928750cd36d43cc</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-24 06:12:24</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-24 06:12:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>256581c847fa3110f928750cd36d43c1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_710529_company_0_vehicle_model" name="x_710529_company_0_vehicle_model" sys_domain="global" view="Default view">5965c94447fa3110f928750cd36d43c8</sys_ui_form>
+            <sys_ui_section caption="Configuration items" display_value="Configuration items" name="x_710529_company_0_vehicle_model" sys_domain="global" view="Default view">256581c847fa3110f928750cd36d43be</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-24 06:12:24</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_710529_company_0_vehicle_model</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-24 06:12:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5965c94447fa3110f928750cd36d43c8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_710529_company_0_vehicle_model</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Company Car EU" source="x_710529_company_0">26b4c18847fa3110f928750cd36d4348</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Company Car EU">26b4c18847fa3110f928750cd36d4348</sys_scope>
+            <sys_update_name>sys_ui_form_sections_5965c94447fa3110f928750cd36d43c8</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-24 06:12:24</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="a96581c847fa3110f928750cd36d43c4" sys_domain="global" table="x_710529_company_0_vehicle_model" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-24 06:12:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>616581c847fa3110f928750cd36d43cf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_710529_company_0_vehicle_model" name="x_710529_company_0_vehicle_model" sys_domain="global" view="e53c64d153c230108125ddeeff7b12e3">a96581c847fa3110f928750cd36d43c4</sys_ui_form>
+            <sys_ui_section caption="Product Model Details" display_value="Product Model Details" name="x_710529_company_0_vehicle_model" sys_domain="global" view="e53c64d153c230108125ddeeff7b12e3">616581c847fa3110f928750cd36d43c7</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-24 06:12:24</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_710529_company_0_vehicle_model</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-24 06:12:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a96581c847fa3110f928750cd36d43c4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_710529_company_0_vehicle_model</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Company Car EU" source="x_710529_company_0">26b4c18847fa3110f928750cd36d4348</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Company Car EU">26b4c18847fa3110f928750cd36d4348</sys_scope>
+            <sys_update_name>sys_ui_form_sections_a96581c847fa3110f928750cd36d43c4</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-24 06:12:24</sys_updated_on>
+            <sys_user/>
+            <view display_value="ITAM Workspace" name="itam_workspace">e53c64d153c230108125ddeeff7b12e3</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

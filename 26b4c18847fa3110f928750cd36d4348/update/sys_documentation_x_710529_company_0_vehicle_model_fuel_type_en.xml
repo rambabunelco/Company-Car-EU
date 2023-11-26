@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="fuel_type" label="Fuel Type" language="en" table="x_710529_company_0_vehicle_model">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>fuel_type</element>
+            <help/>
+            <hint/>
+            <label>Fuel Type</label>
+            <language>en</language>
+            <name>x_710529_company_0_vehicle_model</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-24 06:21:56</sys_created_on>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_name>Fuel Type</sys_name>
+            <sys_package display_value="Company Car EU" source="x_710529_company_0">26b4c18847fa3110f928750cd36d4348</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Company Car EU">26b4c18847fa3110f928750cd36d4348</sys_scope>
+            <sys_update_name>sys_documentation_x_710529_company_0_vehicle_model_fuel_type_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-24 06:21:58</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

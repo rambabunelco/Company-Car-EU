@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
+    <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
+        <dependency display_value="Model Management" source="com.snc.model">1fca934fb4232110320f8dc279c80403</dependency>
+        <min_version>1.0</min_version>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-24 06:12:22</sys_created_on>
+        <sys_id>456581c847fa3110f928750cd36d4353</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_package display_value="Company Car EU" source="x_710529_company_0">26b4c18847fa3110f928750cd36d4348</sys_package>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-24 06:12:22</sys_updated_on>
+    </sys_package_dependency_m2m>
+</record_update>
